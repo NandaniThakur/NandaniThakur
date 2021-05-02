@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandaniThakur
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning pythin 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on some python project
 - 📫 How to reach me ... mail me on nandaniharimira@gmail.com
 
