@@ -47,7 +47,7 @@
 ### 🔗 My Open Source Work
 
 Want to see what I’m contributing to?  
-👉 [Check out my open-source-contributions repo](https://github.com/nandani-thakur/open-source-contributions)
+👉 [Check out my open-source-contributions repo](https://github.com/NandaniThakur/open-source-contributions)
 
 ---
 
