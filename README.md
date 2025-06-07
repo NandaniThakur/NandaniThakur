@@ -44,6 +44,13 @@
 
 ---
 
+### 🔗 My Open Source Work
+
+Want to see what I’m contributing to?  
+👉 [Check out my open-source-contributions repo](https://github.com/nandani-thakur/open-source-contributions)
+
+---
+
 ### 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandanithakur/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NandaniThakur)  
